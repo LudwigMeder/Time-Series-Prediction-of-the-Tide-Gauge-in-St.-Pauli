@@ -7,10 +7,10 @@ Approaches or solutions that have been tried before on similar projects.
 - **Source 1**: Long Short-Term Memory Recurrent Neural Network for Tidal Level Forecasting
 
   - **[Link](https://ieeexplore.ieee.org/abstract/document/9169644)**
-  - **Objective**:Use a deep learning model to predict tidal water levels in 17 harbors in Taiwan.
-  - **Methods**:A forecasting model was developed on the basis of the long short-term memory (LSTM) recurrent neural network. They used the tidal water level for 21 years from different observation stations. To varify their results they compared them with six other forecasting models in terms of the mean absolute percentage error (MAPE) and root mean square error (RMSE).
-  - **Outcomes**:The developed LSTM model had the lowest forecasting error for the tidal water level for up to 30 days. The average MAPE and RMSE values for the developed model were 6.97% and 0.049 m, respectively.
-  - **Relation to the Project**:Since tides depend strongly on the geographic region the transferability of their results to our project is limited, nevertheless showed their work, that neural networks easily learn periodic functions and that LSTMs are a good choice for tidal level time series prediction.
+  - **Objective**: Use a deep learning model to predict tidal water levels in 17 harbors in Taiwan.
+  - **Methods**: A forecasting model was developed on the basis of the long short-term memory (LSTM) recurrent neural network. They used the tidal water level for 21 years from different observation stations. To varify their results they compared them with six other forecasting models in terms of the mean absolute percentage error (MAPE) and root mean square error (RMSE).
+  - **Outcomes**: The developed LSTM model had the lowest forecasting error for the tidal water level for up to 30 days. The average MAPE and RMSE values for the developed model were 6.97% and 0.049 m, respectively.
+  - **Relation to the Project**: Since tides depend strongly on the geographic region the transferability of their results to our project is limited, nevertheless showed their work, that neural networks easily learn periodic functions and that LSTMs are a good choice for tidal level time series prediction.
 
 - **Source 2**: Timeseries forecasting for weather prediction
 
