@@ -6,7 +6,7 @@
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+[The aim of this project is to predict the tide gauge in St. Pauli based on 48 hours of tide measurements and the local wind field represented by wind measurements from the DWD station on Helgoland.]
 
 ### Task Type
 
