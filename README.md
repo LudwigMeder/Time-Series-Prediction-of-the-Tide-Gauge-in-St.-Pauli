@@ -1,4 +1,4 @@
-# [Your Project Title Here]
+# Time Series Prediction of the Tide Gauge in St. Pauli
 
 ## Repository Link
 
