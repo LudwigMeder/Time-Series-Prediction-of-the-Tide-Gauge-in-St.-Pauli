@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name_test]
+[https://github.com/LudwigMeder/Time-Series-Prediction-of-the-Tide-Gauge-in-St.-Pauli]
 
 ## Description
 
