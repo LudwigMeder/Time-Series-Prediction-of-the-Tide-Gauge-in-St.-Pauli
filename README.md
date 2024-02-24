@@ -6,7 +6,7 @@
 
 ## Description
 
-[The aim of this project is to predict the tide gauge in St. Pauli based on 48 hours of tide measurements and the local wind field represented by wind measurements from the DWD station on Helgoland.]
+The aim of this project is to predict the tide gauge in St. Pauli based on 48 hours of tide measurements and the local wind field represented by wind measurements from the DWD station on Helgoland.
 
 ### Task Type
 
@@ -14,9 +14,9 @@ Time Series Prediction
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** LSTM Model
+- **Evaluation Metric:** RSME (root mean squared error)
+- **Result:** RSME = 
 
 ## Documentation
 
