@@ -6,7 +6,7 @@
 
 ## Description
 
-The aim of this project is to predict the tide gauge in St. Pauli based on 48 hours of tide measurements and the local wind field represented by wind measurements from the DWD station on Helgoland.
+The aim of this project is to predict the tide gauge in St. Pauli for a 6 hour window based on the previous 48 hours of tide measurements and the local wind field represented by wind measurements from the DWD station on Helgoland.
 
 ### Task Type
 
