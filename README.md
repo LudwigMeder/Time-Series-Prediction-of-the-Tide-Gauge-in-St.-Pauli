@@ -16,7 +16,7 @@ Time Series Prediction
 
 - **Best Model:** LSTM Model
 - **Evaluation Metric:** RSME (root mean squared error)
-- **Result:** RSME = 
+- **Result:** RSME = 8.80cm
 
 ## Documentation
 
